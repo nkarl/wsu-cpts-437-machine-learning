@@ -1,0 +1,101 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[parfill]{parskip}
+\usepackage{algorithm2e}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+\begin{document}
+
+%% This declares a command \Comment
+%% The argument will be surrounded by /* ... */
+
+\section*{CptS 437 | Exam-01 Notes }
+\;
+\subsection*{ML Overview}
+- \textbf{features}:
+
+- \textbf{training data}: a random sample of input/output pairs drawn from a
+distribution $\mathcal{D}$.
+\;
+\subsection*{Decision Tree}
+- Entropy \& Information Gain:
+
+\[ E = -\sum_{i}^{N}p_ilog_2p_i \quad \mbox{where} \quad i \in \{+, -\}\]
+
+\[ G(T, A) = E(T) - \displaystyle\sum_{v {\in} A}\frac{|S_v|}{|S|}E(S_v) \]
+
+\subsection*{Bayes Optimal Classfier}
+
+- Representation bias: making decision based incorrect perceptions of similar
+situations.
+
+- Inductive bias: input is only dependent on ouput label and an assumed normal
+distribution.
+
+- No free lunch theorem: implies that there is no single best optimization
+algorithm, because all algorithms perform equally when performance is averged
+across all possible problems.
+
+\subsection*{Geometric Algorithms}
+
+- k-nearest neighbors:
+
+- distance function:
+    \[d(a,b) = \left[ \displaystyle\sum_{d=1}^{D}
+(a_d-b_d)^2 \right]^{1/2}\]
+
+- normalization: to make data consistent in some way.
+
+    - feature normalization: adjust all examples consistently for a feature.
+    
+    - example normalization: example is ajusted individually.
+
+- inductive bias: assumes that nearby points have the same label
+
+- decision boundaries: colored differently for positive and negative.
+
+- boundaries for specific classifiers:
+
+- features as dimensions:
+
+\subsection*{K-Means Clustering}
+
+- algorithm: is an unsupervised learning algorithm, page 37.
+
+- iterative refinement: starts with a guess and gradually build up its
+quality.
+
+- convergence: guaranteed to converge and converge quickly.
+
+- computational complexity:
+
+- optimality:
+
+- sum of squared error:
+
+- elbow method:
+
+- the curse of dimensionality:
+
+- variations on clustering, density and hierachy
+
+\subsection*{Perceptron}
+
+- algorithm, weighted sum of inputs, neuron, activation function, bias term
+
+- impact of weights, training, modify weights
+
+- number of iterations, order of training instances, overfit, convergence
+
+- voting percetron, averaged perceptron
+
+- decision boundary, linear separability
+
+- data preparation, imbalanced class distribution
+
+\end{document}
