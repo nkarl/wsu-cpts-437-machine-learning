@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
+                "file": "notes/week2.decision.tree/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
+                "file": "notes/week2.decision.tree/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
+                "file": "notes/week2.decision.tree/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md"
+                "file": "notes/week2.decision.tree/Decision Trees.md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "5779662fac92e4e7",
   "lastOpenFiles": [
+    "notes/week3.geometric.learning/Geometric Learning and KNN.md",
+    "notes/week3.geometric.learning/Clustering and Python ML Libraries.md",
     "notes/week4.perceptron/Perceptron Decision Bounds.md",
     "notes/week2.decision.tree/ML Overview.md",
     "notes/week2.decision.tree/Decision Trees.md",
-    "notes/week3.geometric.learning/Geometric Learning and KNN.md",
-    "notes/week3.geometric.learning/Clustering and Python ML Libraries.md",
     "notes/week3.geometric.learning/Geometric Learning and Nearest Neighbors.md",
     "README.md",
     "notes/week4.perceptron/2.decision.boundaries.md",
