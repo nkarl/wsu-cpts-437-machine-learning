@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "213c500c7f52c46a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/week2.decision.tree/1.md",
-            "mode": "source",
-            "source": false
+        "id": "409995f0bba55503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213c500c7f52c46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/week2.decision.tree/1.md",
+                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/week2.decision.tree/1.md",
+                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,23 +125,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/week2.decision.tree/1.md"
+                "file": "notes/week2.decision.tree/1.intro.to.ML.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "213c500c7f52c46a",
   "lastOpenFiles": [
+    "notes/week2.decision.tree/2.decision.tree.md",
+    "notes/week4.perceptron/2.decision.boundaries.md",
     "notes/week3.geometric.learning/2.clustering.md",
     "notes/week3.geometric.learning/1.geometric.learning.nearest.neighbors.md",
+    "notes/week2.decision.tree/1.intro.to.ML.md",
+    "notes/week1.introduction/introduction.pdf",
     "notes/week1/1.md",
-    "notes/week2.decision.tree/1.md",
     "notes/week3/2.md",
     "notes/week3/1.md",
     "notes/week2/1.md"
