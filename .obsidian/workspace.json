@@ -11,11 +11,19 @@
             "id": "e3bcd2fe1ab97a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/01. Decision Trees.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "ce785927fd6c670e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
               }
             }
           }
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PracticalConsiderations",
+                "query": "tag:#Dimensionality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/01. Decision Trees.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/01. Decision Trees.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,28 +133,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/01. Decision Trees.md"
+                "file": "Untitled Kanban.md"
               }
+            }
+          },
+          {
+            "id": "0f648b676d6056d1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "65d6e7cceb4f1b34",
+  "active": "e3bcd2fe1ab97a40",
   "lastOpenFiles": [
-    "materials/1.DecisionTrees.pdf",
-    "notes/01. Decision Trees.md",
+    "ML Overview.md",
+    "Untitled Kanban.md",
     "notes/Planner.md",
-    "notes/week2.decision.tree/Decision Trees.md",
-    "notes/week3.geometric.learning/Geometric Learning and KNN.md",
-    "notes/week3.geometric.learning/Clustering and Python ML Libraries.md",
-    "notes/week4.perceptron/Perceptron Decision Bounds.md",
-    "notes/week2.decision.tree/ML Overview.md",
-    "notes/week3.geometric.learning/Geometric Learning and Nearest Neighbors.md",
-    "README.md"
+    "notes/02. Geometric Learning and KNN.md",
+    "materials/2.DecisionBounds.NearestNeighbors.pdf",
+    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
+    "notes/01. Decision Trees.md",
+    "notes/00. ML Overview.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "00..md"
   ]
 }
