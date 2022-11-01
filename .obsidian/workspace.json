@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5779662fac92e4e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e3bcd2fe1ab97a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Planner.md",
+                "file": "notes/01. Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PracticalConsiderations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Planner.md",
+                "file": "notes/01. Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Planner.md",
+                "file": "notes/01. Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Planner.md"
+                "file": "notes/01. Decision Trees.md"
               }
             }
           }
@@ -143,19 +135,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
-  "active": "e8966aee9ee39ccb",
+  "active": "65d6e7cceb4f1b34",
   "lastOpenFiles": [
+    "materials/1.DecisionTrees.pdf",
+    "notes/01. Decision Trees.md",
+    "notes/Planner.md",
     "notes/week2.decision.tree/Decision Trees.md",
     "notes/week3.geometric.learning/Geometric Learning and KNN.md",
     "notes/week3.geometric.learning/Clustering and Python ML Libraries.md",
     "notes/week4.perceptron/Perceptron Decision Bounds.md",
     "notes/week2.decision.tree/ML Overview.md",
     "notes/week3.geometric.learning/Geometric Learning and Nearest Neighbors.md",
-    "README.md",
-    "notes/week4.perceptron/2.decision.boundaries.md",
-    "notes/week2.decision.tree/IntroToML.md",
-    "notes/week2.decision.tree/2.decision.tree.md"
+    "README.md"
   ]
 }
