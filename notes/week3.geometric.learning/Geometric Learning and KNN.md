@@ -5,9 +5,8 @@ tags:
 - NearestNeigbors
 - KNN
 ---
-## Geometric Learning & Nearest Neighbors
 
-### Geometry & Dimensionality
+## Geometry & Dimensionality
 
 Given a set of email data, we see if we can identify spam emails from regular emails. We aim to build feature vectors and let the algorithm to "learn". There are a few suggestions we can start from:
 - subject length
@@ -19,13 +18,13 @@ Given a set of email data, we see if we can identify spam emails from regular em
 - formatting
 - No specific person being addressed
 
-### K-Nearest Neighbors (KNN) Classifier
+## K-Nearest Neighbors (KNN) Classifier
 
 In a KNN algorithm, we give data points that are to one another the same label. In other words, instances should be similar to the points nearby.
 
-$$d(a,b) = \left[ \sum_{d=1}^{D} (a_d - b_d)^2 \right] ^{1/2}$$
+$$d(a,b) = \left( \sum_{d=1}^{D} (a_d - b_d)^2 \right) ^{\frac{1}{2}}$$
 
-### When can a distance function cause the classifer to fail?
+## When can a distance function cause the classifer to fail?
 
 1. Irrelevant features
 2. Redudant features
@@ -42,15 +41,15 @@ def normalize(X):
 	
 ```
 
-### KNN Pros & Cons
+## KNN Pros & Cons
 
-#### Pros:
+### Pros:
 - simple
 - no training
 - good accuracy
 - time series
 - classfication or regression
 
-#### Cons:
+### Cons:
 - expensive; does NOT scale well
 - sensitive to features & distance

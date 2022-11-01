@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "409995f0bba55503",
+        "id": "8805505c3bfe4f3e",
         "type": "tabs",
         "children": [
           {
-            "id": "213c500c7f52c46a",
+            "id": "5779662fac92e4e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
+                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
+                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/week2.decision.tree/1.intro.to.ML.md",
+                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/week2.decision.tree/1.intro.to.ML.md"
+                "file": "notes/week4.perceptron/Perceptron Decision Bounds.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "213c500c7f52c46a",
+  "active": "5779662fac92e4e7",
   "lastOpenFiles": [
-    "notes/week2.decision.tree/2.decision.tree.md",
+    "notes/week4.perceptron/Perceptron Decision Bounds.md",
+    "notes/week2.decision.tree/ML Overview.md",
+    "notes/week2.decision.tree/Decision Trees.md",
+    "notes/week3.geometric.learning/Geometric Learning and KNN.md",
+    "notes/week3.geometric.learning/Clustering and Python ML Libraries.md",
+    "notes/week3.geometric.learning/Geometric Learning and Nearest Neighbors.md",
+    "README.md",
     "notes/week4.perceptron/2.decision.boundaries.md",
-    "notes/week3.geometric.learning/2.clustering.md",
-    "notes/week3.geometric.learning/1.geometric.learning.nearest.neighbors.md",
-    "notes/week2.decision.tree/1.intro.to.ML.md",
-    "notes/week1.introduction/introduction.pdf",
-    "notes/week1/1.md",
-    "notes/week3/2.md",
-    "notes/week3/1.md",
-    "notes/week2/1.md"
+    "notes/week2.decision.tree/IntroToML.md",
+    "notes/week2.decision.tree/2.decision.tree.md"
   ]
 }

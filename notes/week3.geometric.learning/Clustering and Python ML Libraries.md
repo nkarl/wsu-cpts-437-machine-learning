@@ -1,5 +1,3 @@
-## Clustering and Python ML libs
-
 ### K-Mean Clustering
 
 - *Unsupervised Learning*

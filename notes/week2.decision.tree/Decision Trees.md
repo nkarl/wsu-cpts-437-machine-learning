@@ -1,4 +1,10 @@
-# Decision Trees
+---
+tags:
+- Geometric
+- Dimensionality
+- NearestNeigbors
+- KNN
+---
 
 - *nominal features* (as opposed to continuous features), i.e. they are labels instead of values.
 
@@ -8,6 +14,6 @@ A greedy top-down decision is less computationally expensive.
 
 Decision tree is inspired information theory.  Thus, entropy applies and is a measure of the degree of noise/impurity of the data set.
 
-$$Entropy(S) = -p_{+}log_2p_{+} - p_{-}log_2p_{-}$$
+$$Entropy(S) = p_{+}log_2p_{+} - p_{-}log_2p_{-}$$
 
 $$Gain(S, A) = Entropy(S) - \sum_{i} \frac{|S_v|}{S} Entropy(S_v)$$
