@@ -6,7 +6,12 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] TODO:<br>- [ ] Map out week progression and major concepts<br>	- [ ] List major problems (regression etc.)<br>	- [ ] List major topics and solution approaches (algorithms)
+- [ ] Skim through the chapters
+- [ ] Group the major topics
+
+
+## TODO
+
 - [ ] - [ ] List major ML algorithms
 - [ ] - [ ] List major topics and solution approaches
 
@@ -14,6 +19,7 @@ kanban-plugin: basic
 ## DONE
 
 - [ ] Organize the notes<br><br>- [x] in Obsidian
+- [ ] - [x] Map out week progression and major concepts
 
 
 
