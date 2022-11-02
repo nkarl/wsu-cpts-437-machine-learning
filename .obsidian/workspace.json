@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. ML Overview.md"
+                "file": "KanbanPlanner.md"
               }
             }
           },
@@ -170,10 +169,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "4f54fbe5ac571f84",
+  "active": "f8362ffb3d3c1690",
   "lastOpenFiles": [
-    "notes/01. Decision Trees.md",
     "notes/00. ML Overview.md",
+    "notes/01. Decision Trees.md",
     "notes/Scratch.md",
     "KanbanPlanner.md",
     "notes/02. Geometric Learning and KNN.md",
