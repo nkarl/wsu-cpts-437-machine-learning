@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3bcd2fe1ab97a40",
+            "id": "adefdaab6082e8b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/00. ML Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "ce785927fd6c670e",
+            "id": "f25a475614be8956",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -25,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5087547302246
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
+              }
             }
           },
           {
@@ -140,24 +149,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "e3bcd2fe1ab97a40",
+  "active": "f25a475614be8956",
   "lastOpenFiles": [
-    "ML Overview.md",
-    "Untitled Kanban.md",
-    "notes/Planner.md",
-    "notes/02. Geometric Learning and KNN.md",
-    "materials/2.DecisionBounds.NearestNeighbors.pdf",
     "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
-    "notes/01. Decision Trees.md",
+    "materials/2.DecisionBounds.NearestNeighbors.pdf",
+    "materials/1.DecisionTrees.pdf",
+    "materials/0.Intro.pdf",
     "notes/00. ML Overview.md",
+    "notes/01. Decision Trees.md",
+    "notes/03. Clustering and Python ML Libs.md",
     "notes/04. Perceptron Decision Bounds.md",
-    "00..md"
+    "notes/02. Geometric Learning and KNN.md",
+    "materials/16.NeuralNetworks.pdf"
   ]
 }
