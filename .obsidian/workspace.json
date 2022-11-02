@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/02. Geometric Learning and KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/02. Geometric Learning and KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/02. Geometric Learning and KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. ML Overview.md"
+                "file": "notes/02. Geometric Learning and KNN.md"
               }
             }
           },
@@ -171,11 +171,11 @@
   },
   "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
-    "KanbanPlanner.md",
-    "notes/Scratch.md",
-    "notes/00. ML Overview.md",
     "notes/01. Decision Trees.md",
     "notes/02. Geometric Learning and KNN.md",
+    "notes/00. ML Overview.md",
+    "KanbanPlanner.md",
+    "notes/Scratch.md",
     "notes/04. Perceptron Decision Bounds.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
     "notes/Planner.md",
