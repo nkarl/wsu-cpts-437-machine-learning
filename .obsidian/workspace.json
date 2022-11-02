@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KanbanPlanner.md",
+                "file": "notes/00. ML Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KanbanPlanner.md",
+                "file": "notes/00. ML Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KanbanPlanner.md"
+                "file": "notes/00. ML Overview.md"
               }
             }
           },
@@ -169,12 +169,12 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f8362ffb3d3c1690",
+  "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
+    "KanbanPlanner.md",
+    "notes/Scratch.md",
     "notes/00. ML Overview.md",
     "notes/01. Decision Trees.md",
-    "notes/Scratch.md",
-    "KanbanPlanner.md",
     "notes/02. Geometric Learning and KNN.md",
     "notes/04. Perceptron Decision Bounds.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
