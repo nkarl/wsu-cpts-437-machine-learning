@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8805505c3bfe4f3e",
+        "id": "4d940fd7ca0a4f9e",
         "type": "tabs",
         "children": [
           {
@@ -16,16 +16,6 @@
                 "file": "notes/00. ML Overview.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f25a475614be8956",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
               }
             }
           }
@@ -157,10 +147,10 @@
   },
   "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
-    "KanbanPlanner.md",
-    "notes/00. ML Overview.md",
-    "notes/Planner.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
+    "notes/00. ML Overview.md",
+    "KanbanPlanner.md",
+    "notes/Planner.md",
     "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
     "materials/1.DecisionTrees.pdf",
     "materials/0.Intro.pdf",
