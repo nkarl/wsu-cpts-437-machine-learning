@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Scratch.md",
+                "file": "notes/00. Scratch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#KNN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/00. Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/00. Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md"
+                "file": "notes/00. Scratch.md"
               }
             }
           },
@@ -169,17 +169,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "adefdaab6082e8b8",
+  "active": "e229ed9fbafefb77",
   "lastOpenFiles": [
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/03. Clustering and Python ML Libs.md",
     "notes/01. Decision Trees.md",
     "notes/02. Geometric Learning and KNN.md",
     "notes/00. ML Overview.md",
+    "notes/00. Scratch.md",
     "KanbanPlanner.md",
-    "notes/Scratch.md",
-    "notes/04. Perceptron Decision Bounds.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
     "notes/Planner.md",
-    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
-    "materials/1.DecisionTrees.pdf"
+    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf"
   ]
 }
