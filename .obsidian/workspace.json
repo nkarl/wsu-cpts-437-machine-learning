@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f8362ffb3d3c1690",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "KanbanPlanner.md"
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "adefdaab6082e8b8",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,15 +159,15 @@
   },
   "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
-    "materials/2.DecisionBounds.NearestNeighbors.pdf",
-    "notes/00. ML Overview.md",
     "KanbanPlanner.md",
+    "notes/00. ML Overview.md",
+    "notes/02. Geometric Learning and KNN.md",
+    "notes/01. Decision Trees.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "materials/2.DecisionBounds.NearestNeighbors.pdf",
     "notes/Planner.md",
     "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
     "materials/1.DecisionTrees.pdf",
-    "materials/0.Intro.pdf",
-    "notes/01. Decision Trees.md",
-    "notes/03. Clustering and Python ML Libs.md",
-    "notes/04. Perceptron Decision Bounds.md"
+    "materials/0.Intro.pdf"
   ]
 }

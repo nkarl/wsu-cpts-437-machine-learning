@@ -6,18 +6,20 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Skim through the chapters
-- [ ] Group the major topics
+- [ ] Revise and strengthen the topic notes
 
 
 ## TODO
 
-- [ ] - [ ] List major ML algorithms
-- [ ] - [ ] List major topics and solution approaches
+- [ ] Group the major topics
+- [ ] Skim through the chapters
+- [ ] Work out framework for each chapter
 
 
 ## DONE
 
+- [ ] - [x] List major topics and solution approaches
+- [ ] - [x] List major ML algorithms
 - [ ] Organize the notes<br><br>- [x] in Obsidian
 - [ ] - [x] Map out week progression and major concepts
 
