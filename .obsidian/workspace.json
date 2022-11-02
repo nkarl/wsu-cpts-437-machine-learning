@@ -35,11 +35,9 @@
             "id": "e229ed9fbafefb77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/00. Scratch.md",
-                "mode": "source",
-                "source": false
+                "file": "KanbanPlanner.md"
               }
             }
           }
@@ -94,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371
+    "width": 338.5069236755371,
+    "collapsed": true
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. Scratch.md",
+                "file": "KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. Scratch.md",
+                "file": "KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. Scratch.md"
+                "file": "KanbanPlanner.md"
               }
             }
           },
@@ -169,10 +168,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "e229ed9fbafefb77",
+  "active": "e8966aee9ee39ccb",
   "lastOpenFiles": [
-    "notes/04. Perceptron Decision Bounds.md",
     "notes/00. Scratch.md",
+    "notes/04. Perceptron Decision Bounds.md",
     "notes/03. Clustering and Python ML Libs.md",
     "notes/01. Decision Trees.md",
     "notes/02. Geometric Learning and KNN.md",
