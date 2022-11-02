@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#autonomy",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "adefdaab6082e8b8",
+  "active": "4f54fbe5ac571f84",
   "lastOpenFiles": [
     "notes/01. Decision Trees.md",
     "notes/00. ML Overview.md",
