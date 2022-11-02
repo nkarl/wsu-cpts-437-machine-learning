@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f25a475614be8956",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf",
+                "file": "notes/00. ML Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf",
+                "file": "notes/00. ML Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
+                "file": "notes/00. ML Overview.md"
               }
             }
           },
@@ -149,17 +138,16 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "f25a475614be8956",
+  "active": "4f54fbe5ac571f84",
   "lastOpenFiles": [
-    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
+    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
     "materials/1.DecisionTrees.pdf",
     "materials/0.Intro.pdf",
     "notes/00. ML Overview.md",
