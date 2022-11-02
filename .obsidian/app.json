@@ -2,5 +2,6 @@
   "vimMode": true,
   "showFrontmatter": false,
   "showLineNumber": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": true
 }

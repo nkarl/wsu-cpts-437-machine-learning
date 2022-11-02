@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f25a475614be8956",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "materials/2.DecisionBounds.NearestNeighbors.pdf"
+              }
+            }
           }
         ]
       }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dimensionality",
+                "query": "tag:#autonomy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 281.5087547302246
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -144,17 +155,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "4f54fbe5ac571f84",
+  "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
+    "KanbanPlanner.md",
+    "notes/00. ML Overview.md",
+    "notes/Planner.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf",
     "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf",
     "materials/1.DecisionTrees.pdf",
     "materials/0.Intro.pdf",
-    "notes/00. ML Overview.md",
     "notes/01. Decision Trees.md",
     "notes/03. Clustering and Python ML Libs.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/02. Geometric Learning and KNN.md",
-    "materials/16.NeuralNetworks.pdf"
+    "notes/04. Perceptron Decision Bounds.md"
   ]
 }

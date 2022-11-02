@@ -1,5 +1,9 @@
 {
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false
 }
