@@ -25,19 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/00. Scratch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e229ed9fbafefb77",
+            "id": "6a4fc22b52ba92c7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "KanbanPlanner.md"
+                "file": "notes/02. Geometric Learning and KNN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KNN",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371,
-    "collapsed": true
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KanbanPlanner.md",
+                "file": "notes/02. Geometric Learning and KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KanbanPlanner.md",
+                "file": "notes/02. Geometric Learning and KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KanbanPlanner.md"
+                "file": "notes/02. Geometric Learning and KNN.md"
               }
             }
           },
@@ -168,17 +169,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "e8966aee9ee39ccb",
+  "active": "6a4fc22b52ba92c7",
   "lastOpenFiles": [
-    "notes/00. Scratch.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/03. Clustering and Python ML Libs.md",
-    "notes/01. Decision Trees.md",
-    "notes/02. Geometric Learning and KNN.md",
     "notes/00. ML Overview.md",
+    "notes/01. Decision Trees.md",
+    "notes/00. Scratch.md",
+    "notes/02. Geometric Learning and KNN.md",
     "KanbanPlanner.md",
-    "materials/2.DecisionBounds.NearestNeighbors.pdf",
-    "notes/Planner.md",
-    "materials/3.DecisionBounds.NearestNeighbors.KMeans.Geometric.Clustering.pdf"
+    "notes/05. Practical Considerations.md",
+    "notes/03. Clustering and Python ML Libs.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/Scratch.md",
+    "materials/2.DecisionBounds.NearestNeighbors.pdf"
   ]
 }

@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] Revise and strengthen the topic notes<br><br>- [ ] Link and reference each major topic with the Overview
-- [ ] Start review first few topics<br>- [ ] Decision Trees<br>- [ ] Bayes Optimal Classifier<br>- [ ] KNN<br>- [ ] Perceptron
 - [ ] Start review more advanced topics<br>- [ ] Neural nets<br>- [ ] Backpropagation<br>- [ ] Convolutional nets<br>- [ ] DNN, GANs
 
 
@@ -15,6 +14,7 @@ kanban-plugin: basic
 
 - [ ] Skim through the chapters
 - [ ] Work out framework for each chapter
+- [ ] Start review first few topics<br>- [x] Decision Trees<br>- [x] Bayes Optimal Classifier|<br>- [ ] Geometric<br>- [ ] Nearest Neighbors<br>- [ ] KNN<br>- [ ] Perceptron
 
 
 ## DONE
