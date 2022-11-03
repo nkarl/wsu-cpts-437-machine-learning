@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/03. Clustering and Python ML Libs.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "curse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/03. Clustering and Python ML Libs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md",
+                "file": "notes/03. Clustering and Python ML Libs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02. Geometric Learning and KNN.md"
+                "file": "notes/03. Clustering and Python ML Libs.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,13 +171,13 @@
   },
   "active": "6a4fc22b52ba92c7",
   "lastOpenFiles": [
+    "notes/00. Scratch.md",
     "notes/00. ML Overview.md",
     "notes/01. Decision Trees.md",
-    "notes/00. Scratch.md",
+    "notes/03. Clustering and Python ML Libs.md",
     "notes/02. Geometric Learning and KNN.md",
     "KanbanPlanner.md",
     "notes/05. Practical Considerations.md",
-    "notes/03. Clustering and Python ML Libs.md",
     "notes/04. Perceptron Decision Bounds.md",
     "notes/Scratch.md",
     "materials/2.DecisionBounds.NearestNeighbors.pdf"
