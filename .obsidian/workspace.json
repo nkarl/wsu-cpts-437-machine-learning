@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/00. Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/00. Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md"
+                "file": "notes/00. Scratch.md"
               }
             }
           },
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "6a4fc22b52ba92c7",
+  "active": "adefdaab6082e8b8",
   "lastOpenFiles": [
-    "notes/03. Geometric Learning and KNN.md",
+    "KanbanPlanner.md",
     "notes/04. Perceptron Decision Bounds.md",
+    "notes/03. Geometric Learning and KNN.md",
     "notes/07. Linear Models.md",
     "notes/09. Probabilistic Modeling.md",
     "notes/02. Clustering and Python ML Libs.md",
     "notes/06. Multiclass Classification.md",
     "notes/01. Decision Trees.md",
     "notes/00. ML Overview.md",
-    "notes/00. Scratch.md",
-    "KanbanPlanner.md"
+    "notes/00. Scratch.md"
   ]
 }
