@@ -14,7 +14,8 @@ kanban-plugin: basic
 
 - [ ] **Skim through the chapters**
 - [ ] **Advanced** topics<br>- [ ] Neural networks<br>- [ ] Backpropagation<br>- [ ] Convolutional nets<br>- [ ] DNN, GANs
-- [ ] *Neural Networks*<br>- [ ] Gradient Descent<br>- [ ] Subgradients<br>- [ ] Back-propagation
+- [ ] *Neural Networks*<br>- [ ] Gradient descent<br>- [ ] Back-propagation
+- [ ] Linear Models<br>- [ ] Gradient Descent<br>- [ ] Subgradients<br>- [ ] closed-formed optimization for squared loss (linear regression)
 
 
 ## DONE
