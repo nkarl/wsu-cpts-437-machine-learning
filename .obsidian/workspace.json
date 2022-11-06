@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "eae546be9422d87b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/03. Geometric Learning and KNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a4fc22b52ba92c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/05. Practical Considerations.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0677bf4d30c54ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/04. Perceptron Decision Bounds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/05. Practical Considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/05. Practical Considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md"
+                "file": "notes/05. Practical Considerations.md"
               }
             }
           },
@@ -191,20 +191,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "active": "6a4fc22b52ba92c7",
   "lastOpenFiles": [
-    "notes/07. Linear Models.md",
     "notes/00. ML Overview.md",
-    "notes/01. Decision Trees.md",
-    "notes/02. Clustering and Python ML Libs.md",
-    "02. Geometric Learning and KNN.md",
-    "notes/00. Scratch.md",
-    "notes/03. Geometric Learning and KNN.md",
+    "notes/05. Practical Considerations.md",
+    "notes/07. Linear Models.md",
     "notes/04. Perceptron Decision Bounds.md",
-    "KanbanPlanner.md",
-    "notes/09. Probabilistic Modeling.md"
+    "notes/03. Geometric Learning and KNN.md",
+    "notes/02. Clustering and Python ML Libs.md",
+    "notes/00. Scratch.md",
+    "notes/01. Decision Trees.md",
+    "notes/06. Multiclass Classification.md",
+    "02. Geometric Learning and KNN.md"
   ]
 }
