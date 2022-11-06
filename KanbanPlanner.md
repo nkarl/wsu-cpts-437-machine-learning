@@ -13,8 +13,8 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] **Skim through the chapters**
-- [ ] Start review more advanced topics<br>- [ ] Neural nets<br>- [ ] Backpropagation<br>- [ ] Convolutional nets<br>- [ ] DNN, GANs
-- [ ] Working through Neural Nets<br>- [ ] Gradient Descent<br>- [ ] Subgradients
+- [ ] **Advanced** topics<br>- [ ] Neural networks<br>- [ ] Backpropagation<br>- [ ] Convolutional nets<br>- [ ] DNN, GANs
+- [ ] *Neural Networks*<br>- [ ] Gradient Descent<br>- [ ] Subgradients<br>- [ ] Back-propagation
 
 
 ## DONE

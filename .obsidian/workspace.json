@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "adefdaab6082e8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00. Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "428b3d4a8017451e",
             "type": "leaf",
             "state": {
@@ -44,28 +32,27 @@
             }
           },
           {
-            "id": "fe9ee7f0630e1143",
+            "id": "a9a346fbf211647d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05. Practical Considerations.md",
+                "file": "notes/07. Linear Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9a346fbf211647d",
+            "id": "cc83c23bef47d8e7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "KanbanPlanner.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KanbanPlanner.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,17 +173,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f8362ffb3d3c1690",
+  "active": "cc83c23bef47d8e7",
   "lastOpenFiles": [
     "notes/07. Linear Models.md",
     "notes/10. Neural Networks.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/05. Practical Considerations.md",
-    "notes/09. Probabilistic Modeling.md",
     "notes/01. Decision Trees.md",
-    "notes/00. Scratch.md",
-    "notes/00. ML Overview.md",
+    "notes/05. Practical Considerations.md",
     "KanbanPlanner.md",
+    "notes/00. Scratch.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/09. Probabilistic Modeling.md",
+    "notes/00. ML Overview.md",
     "notes/03. Geometric Learning and KNN.md"
   ]
 }
