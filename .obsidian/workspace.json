@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00. Scratch.md",
+                "file": "notes/00. ML Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371,
-    "collapsed": true
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -198,14 +197,14 @@
   "active": "6a4fc22b52ba92c7",
   "lastOpenFiles": [
     "notes/07. Linear Models.md",
+    "notes/00. ML Overview.md",
+    "notes/01. Decision Trees.md",
+    "notes/02. Clustering and Python ML Libs.md",
+    "02. Geometric Learning and KNN.md",
+    "notes/00. Scratch.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/04. Perceptron Decision Bounds.md",
-    "notes/00. Scratch.md",
     "KanbanPlanner.md",
-    "notes/09. Probabilistic Modeling.md",
-    "notes/02. Clustering and Python ML Libs.md",
-    "notes/06. Multiclass Classification.md",
-    "notes/01. Decision Trees.md",
-    "notes/00. ML Overview.md"
+    "notes/09. Probabilistic Modeling.md"
   ]
 }
