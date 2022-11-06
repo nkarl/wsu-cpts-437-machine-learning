@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models.md",
+                "file": "notes/05. Practical Considerations.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,16 +59,13 @@
             "id": "a9a346fbf211647d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/10. Neural Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "KanbanPlanner.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10. Neural Networks.md"
+                "file": "KanbanPlanner.md"
               }
             }
           },
@@ -193,15 +190,15 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "a9a346fbf211647d",
+  "active": "f8362ffb3d3c1690",
   "lastOpenFiles": [
-    "notes/09. Probabilistic Modeling.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/10. Neural Networks.md",
     "notes/07. Linear Models.md",
+    "notes/10. Neural Networks.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/05. Practical Considerations.md",
+    "notes/09. Probabilistic Modeling.md",
     "notes/01. Decision Trees.md",
     "notes/00. Scratch.md",
-    "notes/05. Practical Considerations.md",
     "notes/00. ML Overview.md",
     "KanbanPlanner.md",
     "notes/03. Geometric Learning and KNN.md"
