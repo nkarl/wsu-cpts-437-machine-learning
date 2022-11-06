@@ -25,50 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/00. Scratch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e865cbc71558da6",
+            "id": "428b3d4a8017451e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "notes/01. Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a4fc22b52ba92c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/09. Probabilistic Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb5046f1a050e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/10. Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a13b4df99787c82",
+            "id": "fe9ee7f0630e1143",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,19 +56,19 @@
             }
           },
           {
-            "id": "b0677bf4d30c54ea",
+            "id": "a9a346fbf211647d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
+                "file": "notes/10. Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,17 +193,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "1e865cbc71558da6",
+  "active": "a9a346fbf211647d",
   "lastOpenFiles": [
-    "notes/00. Scratch.md",
-    "notes/00. ML Overview.md",
-    "KanbanPlanner.md",
     "notes/09. Probabilistic Modeling.md",
+    "notes/04. Perceptron Decision Bounds.md",
     "notes/10. Neural Networks.md",
     "notes/07. Linear Models.md",
+    "notes/01. Decision Trees.md",
+    "notes/00. Scratch.md",
     "notes/05. Practical Considerations.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/03. Geometric Learning and KNN.md",
-    "notes/02. Clustering and Python ML Libs.md"
+    "notes/00. ML Overview.md",
+    "KanbanPlanner.md",
+    "notes/03. Geometric Learning and KNN.md"
   ]
 }
