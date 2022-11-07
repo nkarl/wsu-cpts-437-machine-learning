@@ -3,5 +3,6 @@
   "showFrontmatter": false,
   "showLineNumber": true,
   "strictLineBreaks": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }
