@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/10. Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/10. Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/10. Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. ML Overview.md"
+                "file": "notes/10. Neural Networks.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "cc83c23bef47d8e7",
   "lastOpenFiles": [
+    "notes/09. Probabilistic Modeling.md",
+    "notes/10. Neural Networks.md",
+    "notes/00. ML Overview.md",
     "notes/00. Scratch.md",
     "notes/01. Decision Trees.md",
     "notes/02. Clustering and Python ML Libs.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/04. Perceptron Decision Bounds.md",
     "notes/05. Practical Considerations.md",
-    "notes/06. Multiclass Classification.md",
-    "notes/09. Probabilistic Modeling.md",
-    "notes/07. Linear Models and Optimization.md",
-    "notes/10. Neural Networks.md"
+    "notes/06. Multiclass Classification.md"
   ]
 }
