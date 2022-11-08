@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/09. Probabilistic Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/09. Probabilistic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/09. Probabilistic Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/09. Probabilistic Modeling.md"
               }
             }
           },
@@ -207,12 +207,12 @@
   },
   "active": "8754557140484fdd",
   "lastOpenFiles": [
-    "KanbanPlanner.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/09. Probabilistic Modeling.md",
+    "notes/05. Practical Considerations.md",
+    "KanbanPlanner.md",
     "notes/04. Perceptron Decision Bounds.md",
     "notes/10. Neural Networks.md",
-    "notes/05. Practical Considerations.md",
     "notes/01. Decision Trees.md",
     "notes/15. Deep Neural Networks.md",
     "notes/06. Multiclass Classification.md",
