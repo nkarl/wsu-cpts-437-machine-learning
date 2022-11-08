@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "1407e62b4fae830a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/15. Deep Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a9a346fbf211647d",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371,
-    "collapsed": true
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/15. Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/15. Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/15. Deep Neural Networks.md"
               }
             }
           },
@@ -180,13 +191,13 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "cc83c23bef47d8e7",
+  "active": "1407e62b4fae830a",
   "lastOpenFiles": [
+    "notes/07. Linear Models and Optimization.md",
     "notes/06. Multiclass Classification.md",
     "notes/05. Practical Considerations.md",
     "notes/04. Perceptron Decision Bounds.md",
     "notes/03. Geometric Learning and KNN.md",
-    "notes/07. Linear Models and Optimization.md",
     "notes/10. Neural Networks.md",
     "notes/09. Probabilistic Modeling.md",
     "notes/00. ML Overview.md",
