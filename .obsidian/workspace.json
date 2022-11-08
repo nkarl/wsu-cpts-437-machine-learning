@@ -23,11 +23,9 @@
             "id": "428b3d4a8017451e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/01. Decision Trees.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/01. Decision Trees.md"
               }
             }
           },
@@ -106,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371
+    "width": 338.5069236755371,
+    "collapsed": true
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -175,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
