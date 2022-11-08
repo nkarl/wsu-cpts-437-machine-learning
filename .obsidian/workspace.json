@@ -23,31 +23,21 @@
             "id": "428b3d4a8017451e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/01. Decision Trees.md"
-              }
-            }
-          },
-          {
-            "id": "cc83c23bef47d8e7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/05. Practical Considerations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1407e62b4fae830a",
+            "id": "8754557140484fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/09. Probabilistic Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31dbce8307f14f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/04. Perceptron Decision Bounds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "308e9dccfe0e5fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/10. Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md"
+                "file": "notes/07. Linear Models and Optimization.md"
               }
             }
           },
@@ -185,23 +199,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
-  "active": "1407e62b4fae830a",
+  "active": "8754557140484fdd",
   "lastOpenFiles": [
+    "KanbanPlanner.md",
     "notes/07. Linear Models and Optimization.md",
-    "notes/06. Multiclass Classification.md",
-    "notes/05. Practical Considerations.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/03. Geometric Learning and KNN.md",
-    "notes/10. Neural Networks.md",
     "notes/09. Probabilistic Modeling.md",
-    "notes/00. ML Overview.md",
-    "notes/00. Scratch.md",
-    "notes/01. Decision Trees.md"
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/10. Neural Networks.md",
+    "notes/05. Practical Considerations.md",
+    "notes/01. Decision Trees.md",
+    "notes/15. Deep Neural Networks.md",
+    "notes/06. Multiclass Classification.md",
+    "notes/03. Geometric Learning and KNN.md"
   ]
 }

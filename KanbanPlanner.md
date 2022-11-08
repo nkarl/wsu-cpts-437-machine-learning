@@ -7,16 +7,17 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] **Skim through the chapters**
-- [ ] **Revise and strengthen the simple topics**
-- [ ] **Revise and strengthen the advanced topics**
-- [ ] **Simple** topics<br>- [ ] decision trees<br>	- [ ] *opt*: tree pruning<br>	- [ ] *opt*: depth limiting<br>- [ ] Bayes Optimal Classifier<br>- [ ] Geometric<br>	- [ ] Nearest Neighbors<br>	- [ ] KNN<br>- [ ] Perceptron
+- [ ] **Revise and reinforce the simple topics**
+- [ ] **Revise and reinforce the advanced topics**
+- [ ] **Simple** topics<br>- [ ] decision trees<br>	- [ ] *optim.*: tree pruning<br>	- [ ] *optim.*: depth limiting<br>- [ ] Bayes Optimal Classifier<br>- [ ] Geometric<br>	- [ ] Nearest Neighbors<br>	- [ ] KNN<br>- [ ] Perceptron<br>- [ ] Naive Bayes
 
 
 ## TODO
 
-- [ ] **Advanced** topics<br>- [ ] Neural networks<br>	- [ ] Backpropagation<br>- [ ] Convolutional nets<br>	- [ ] DNN, GANs
+- [ ] **ReRead Perceptron**<br>- [ ] Take note of important constructs<br>	- [ ] loss function (convex)<br>	- [ ] bias & variance<br>	- [ ] weight vector<br>	- [ ] regularizer (to prevent overfitting)<br>	- [ ] activation function (sigmoid)
+- [ ] **Advanced** topics<br>- [ ] Neural Networks<br>	- [ ] Back-Propagation<br>- [ ] Deep Neural Networks<br>	- [ ] RNN (Recurrent)<br>	- [ ] AutoEncoders (AE)<br>		- [ ] VAE (Variational)<br>	- [ ] GAN<br>	- [ ] CNN (Convolutional)
 - [ ] *Neural Networks*<br>- [ ] gradient descent<br>- [ ] back-propagation
-- [ ] **Linear/Optimization** Models<br>- [ ] gradient descent<br>- [ ] sub-gradients<br>- [ ] **closed-formed optimization** for *squared loss* (linear regression)
+- [ ] **Linear** Models & Optimization Strategies<br>- [ ] gradient descent<br>- [ ] sub-gradients<br>- [ ] **closed-formed optimization** for *squared loss* (linear regression)
 
 
 ## DONE
