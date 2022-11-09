@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,13 +171,13 @@
   },
   "active": "cc83c23bef47d8e7",
   "lastOpenFiles": [
+    "notes/00. ML Overview.md",
+    "notes/15. Deep Neural Networks.md",
+    "notes/10. Neural Networks.md",
+    "KanbanPlanner.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/09. Probabilistic Modeling.md",
-    "notes/10. Neural Networks.md",
-    "notes/15. Deep Neural Networks.md",
-    "KanbanPlanner.md",
     "notes/00. Scratch.md",
-    "notes/00. ML Overview.md",
     "Linear Regression.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/02. Clustering and Python ML Libs.md"
