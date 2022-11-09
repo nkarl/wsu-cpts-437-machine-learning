@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regu",
+                "query": "activation function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,13 +171,13 @@
   },
   "active": "cc83c23bef47d8e7",
   "lastOpenFiles": [
-    "KanbanPlanner.md",
-    "notes/07. Linear Models and Optimization.md",
-    "notes/00. Scratch.md",
-    "notes/10. Neural Networks.md",
-    "notes/00. ML Overview.md",
     "notes/09. Probabilistic Modeling.md",
+    "notes/10. Neural Networks.md",
     "notes/15. Deep Neural Networks.md",
+    "notes/07. Linear Models and Optimization.md",
+    "KanbanPlanner.md",
+    "notes/00. Scratch.md",
+    "notes/00. ML Overview.md",
     "Linear Regression.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/02. Clustering and Python ML Libs.md"
