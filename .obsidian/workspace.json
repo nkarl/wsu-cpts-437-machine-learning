@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/15. Deep Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/15. Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/15. Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/15. Deep Neural Networks.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "cc83c23bef47d8e7",
   "lastOpenFiles": [
+    "notes/07. Linear Models and Optimization.md",
     "notes/09. Probabilistic Modeling.md",
     "notes/10. Neural Networks.md",
     "notes/15. Deep Neural Networks.md",
-    "notes/07. Linear Models and Optimization.md",
     "KanbanPlanner.md",
     "notes/00. Scratch.md",
     "notes/00. ML Overview.md",
