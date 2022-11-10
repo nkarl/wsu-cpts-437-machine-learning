@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "notes/04. Perceptron Decision Bounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,9 +229,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "31dbce8307f14f6c",
+  "active": "308e9dccfe0e5fc3",
   "lastOpenFiles": [
     "notes/04. Perceptron Decision Bounds.md",
+    "notes/10. Neural Networks.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/05. Practical Considerations.md",
     "notes/00. CNN Project.md",
@@ -240,7 +240,6 @@
     "team-repo/README.md",
     "notes/09. Probabilistic Modeling.md",
     "notes/15. Deep Neural Networks.md",
-    "notes/10. Neural Networks.md",
     "notes/06. Multiclass Classification.md"
   ]
 }
