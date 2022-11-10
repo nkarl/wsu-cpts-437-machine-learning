@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/04. Perceptron Decision Bounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/04. Perceptron Decision Bounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/04. Perceptron Decision Bounds.md"
               }
             }
           },
@@ -229,11 +229,11 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "8754557140484fdd",
+  "active": "31dbce8307f14f6c",
   "lastOpenFiles": [
+    "notes/07. Linear Models and Optimization.md",
     "notes/05. Practical Considerations.md",
     "notes/00. CNN Project.md",
-    "notes/07. Linear Models and Optimization.md",
     "notes/KanbanPlanner.md",
     "team-repo/README.md",
     "notes/09. Probabilistic Modeling.md",
