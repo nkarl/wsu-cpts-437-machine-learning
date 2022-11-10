@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62e05d2bec6acec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/09. Probabilistic Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f259519aa653bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/07. Linear Models and Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#normalization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,16 +217,16 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "8754557140484fdd",
+  "active": "8f259519aa653bff",
   "lastOpenFiles": [
     "notes/09. Probabilistic Modeling.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/05. Practical Considerations.md",
-    "notes/06. Multiclass Classification.md",
+    "KanbanPlanner.md",
     "notes/07. Linear Models and Optimization.md",
+    "notes/05. Practical Considerations.md",
     "notes/15. Deep Neural Networks.md",
     "notes/10. Neural Networks.md",
-    "KanbanPlanner.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/06. Multiclass Classification.md",
     "notes/01. Decision Trees.md",
     "notes/03. Geometric Learning and KNN.md"
   ]
