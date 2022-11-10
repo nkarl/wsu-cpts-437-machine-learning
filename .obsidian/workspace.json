@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "KanbanPlanner.md"
+                "file": "notes/KanbanPlanner.md"
               },
               "pinned": true
             }
@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "744be6862c3f110b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/00. CNN Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,17 +229,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "8f259519aa653bff",
+  "active": "8754557140484fdd",
   "lastOpenFiles": [
-    "notes/09. Probabilistic Modeling.md",
-    "KanbanPlanner.md",
-    "notes/07. Linear Models and Optimization.md",
     "notes/05. Practical Considerations.md",
+    "notes/00. CNN Project.md",
+    "notes/07. Linear Models and Optimization.md",
+    "notes/KanbanPlanner.md",
+    "team-repo/README.md",
+    "notes/09. Probabilistic Modeling.md",
     "notes/15. Deep Neural Networks.md",
     "notes/10. Neural Networks.md",
     "notes/04. Perceptron Decision Bounds.md",
-    "notes/06. Multiclass Classification.md",
-    "notes/01. Decision Trees.md",
-    "notes/03. Geometric Learning and KNN.md"
+    "notes/06. Multiclass Classification.md"
   ]
 }
