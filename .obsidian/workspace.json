@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8362ffb3d3c1690",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/KanbanPlanner.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "428b3d4a8017451e",
+            "id": "e9f7635281066238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05. Practical Considerations.md",
+                "file": "notes/11. Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8754557140484fdd",
+            "id": "efd0d019032712ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/math/Convolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31dbce8307f14f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/04. Perceptron Decision Bounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "308e9dccfe0e5fc3",
+            "id": "c0a6c370d9fb81b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,45 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62e05d2bec6acec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/09. Probabilistic Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f259519aa653bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "744be6862c3f110b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00. CNN Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#activation",
+                "query": "regulariz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/11. Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/11. Convolutional Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/11. Convolutional Neural Networks.md"
               }
             }
           },
@@ -229,17 +168,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "8754557140484fdd",
+  "active": "e9f7635281066238",
   "lastOpenFiles": [
+    "notes/math/Convolution.md",
+    "notes/11. Convolutional Neural Networks.md",
     "notes/10. Neural Networks.md",
-    "notes/04. Perceptron Decision Bounds.md",
     "notes/07. Linear Models and Optimization.md",
-    "notes/05. Practical Considerations.md",
-    "notes/00. CNN Project.md",
     "notes/KanbanPlanner.md",
-    "team-repo/README.md",
+    "notes/00. CNN Project.md",
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/05. Practical Considerations.md",
     "notes/09. Probabilistic Modeling.md",
-    "notes/15. Deep Neural Networks.md",
-    "notes/06. Multiclass Classification.md"
+    "notes/15. Deep Neural Networks.md"
   ]
 }

@@ -17,7 +17,7 @@ kanban-plugin: basic
 - [ ] **ReRead Perceptron**<br>- [ ] Take note of important constructs<br>	- [ ] loss function (convex)<br>	- [ ] bias & variance<br>	- [ ] weight vector<br>	- [ ] regularizer (to prevent overfitting)<br>	- [ ] activation function (sigmoid)
 - [ ] **Advanced** topics<br>- [ ] Neural Networks<br>	- [ ] Back-Propagation<br>- [ ] Deep Neural Networks<br>	- [ ] RNN (Recurrent)<br>	- [ ] AutoEncoders (AE)<br>		- [ ] VAE (Variational)<br>	- [ ] GAN<br>	- [ ] CNN (Convolutional)
 - [ ] *Neural Networks*<br>- [ ] gradient descent<br>- [ ] back-propagation
-- [ ] **Linear** Models & Optimization Strategies<br>- [ ] gradient descent<br>- [ ] sub-gradients<br>- [ ] **closed-formed optimization** for *squared loss* (linear regression)
+- [ ] **Linear** Models & Optimization Strategies<br>- [ ] weight regularization<br>- [ ] gradient descent<br>- [ ] sub-gradients<br>- [ ] **closed-formed optimization** for *squared loss* (linear regression)
 
 
 ## DONE
