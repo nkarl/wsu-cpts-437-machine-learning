@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "05f5b475f64083b4",
+  "active": "e8966aee9ee39ccb",
   "lastOpenFiles": [
     "notes/00. CNN Project.md",
     "notes/11. Convolutional Neural Networks.md",
