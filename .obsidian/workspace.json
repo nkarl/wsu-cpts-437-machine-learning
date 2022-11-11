@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "KanbanPlanner.md"
+                "file": "notes/KanbanPlanner.md"
               },
               "pinned": true
             }
@@ -66,6 +66,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62e05d2bec6acec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/09. Probabilistic Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f259519aa653bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/07. Linear Models and Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "744be6862c3f110b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/00. CNN Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -97,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#activation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,15 +231,15 @@
   },
   "active": "8754557140484fdd",
   "lastOpenFiles": [
-    "notes/09. Probabilistic Modeling.md",
-    "notes/04. Perceptron Decision Bounds.md",
-    "notes/05. Practical Considerations.md",
-    "notes/06. Multiclass Classification.md",
-    "notes/07. Linear Models and Optimization.md",
-    "notes/15. Deep Neural Networks.md",
     "notes/10. Neural Networks.md",
-    "KanbanPlanner.md",
-    "notes/01. Decision Trees.md",
-    "notes/03. Geometric Learning and KNN.md"
+    "notes/04. Perceptron Decision Bounds.md",
+    "notes/07. Linear Models and Optimization.md",
+    "notes/05. Practical Considerations.md",
+    "notes/00. CNN Project.md",
+    "notes/KanbanPlanner.md",
+    "team-repo/README.md",
+    "notes/09. Probabilistic Modeling.md",
+    "notes/15. Deep Neural Networks.md",
+    "notes/06. Multiclass Classification.md"
   ]
 }
