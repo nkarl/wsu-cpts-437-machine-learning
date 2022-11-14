@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. CNN Project.md",
+                "file": "notes/10. Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. CNN Project.md",
+                "file": "notes/10. Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. CNN Project.md"
+                "file": "notes/10. Neural Networks.md"
               }
             }
           },
@@ -180,11 +180,11 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "05f5b475f64083b4",
+  "active": "c0a6c370d9fb81b9",
   "lastOpenFiles": [
-    "notes/10. Neural Networks.md",
-    "notes/math/Convolution.md",
     "notes/00. CNN Project.md",
+    "notes/math/Convolution.md",
+    "notes/10. Neural Networks.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
