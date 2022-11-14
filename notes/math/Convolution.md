@@ -47,7 +47,7 @@ where **$\boldsymbol{t}$ is the amount at which the function $\boldsymbol{f(\tau
 > > > - In other words, at time $t$, compute the area under the function $\boldsymbol{f(\tau)}$  weighted by the weighting function $\boldsymbol{g(t−\tau)}$.
 	
 <div align="center">
-	<iframe src="https://upload.wikimedia.org/wikipedia/commons/7/79/Convolution3.svg" style="width:600;height:600"></iframe>
+	<iframe src="https://upload.wikimedia.org/wikipedia/commons/7/79/Convolution3.svg" style="width:600;height:600;background-color:white;color:black"></iframe>
 </div>
 
 
