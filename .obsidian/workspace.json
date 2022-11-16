@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00. CNN Project.md",
+                "file": "notes/10. Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/math/Rectifier.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regularized objective",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/math/Rectifier.md",
+                "file": "notes/10. Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/math/Rectifier.md",
+                "file": "notes/10. Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/math/Rectifier.md"
+                "file": "notes/10. Neural Networks.md"
               }
             }
           },
@@ -204,17 +204,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3ce56040642367e7",
+  "active": "05f5b475f64083b4",
   "lastOpenFiles": [
-    "notes/math/Convolution.md",
-    "notes/math/Rectifier.md",
-    "notes/15. Deep Neural Networks.md",
-    "notes/10. Neural Networks.md",
     "notes/00. CNN Project.md",
     "notes/07. Linear Models and Optimization.md",
+    "notes/11. Convolutional Neural Networks.md",
+    "notes/math/Rectifier.md",
+    "notes/math/Convolution.md",
+    "notes/15. Deep Neural Networks.md",
+    "notes/10. Neural Networks.md",
     "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
-    "notes/09. Probabilistic Modeling.md",
-    "notes/11. Convolutional Neural Networks.md"
+    "notes/09. Probabilistic Modeling.md"
   ]
 }
