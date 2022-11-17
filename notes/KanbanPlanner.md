@@ -12,6 +12,11 @@ kanban-plugin: basic
 - [ ] **Simple** topics<br>- [ ] decision trees<br>	- [ ] *optim.*: tree pruning<br>	- [ ] *optim.*: depth limiting<br>- [ ] Bayes Optimal Classifier<br>- [ ] Geometric<br>	- [ ] Nearest Neighbors<br>	- [ ] KNN<br>- [ ] Perceptron<br>- [ ] Naive Bayes
 
 
+## CNN
+
+- [ ] CNN<br>- [ ] data preparation<br>- [ ] math model<br>	- [ ] loss function<br>	- [ ] activation function
+
+
 ## TODO
 
 - [ ] **ReRead Perceptron**<br>- [ ] Take note of important constructs<br>	- [ ] loss function (convex)<br>	- [ ] bias & variance<br>	- [ ] weight vector<br>	- [ ] regularizer (to prevent overfitting)<br>	- [ ] activation function (sigmoid)
@@ -28,10 +33,6 @@ kanban-plugin: basic
 - [ ] Group the major topics<br><br>- [x] Finish parsing out the fundamental concepts (in chapter 2 ACIM)<br>	- [x] inductive bias<br>	- [x] variance & bias<br>	- [x] Underfitting & Overfitting<br>- [x] Put the fundamentals in Overview
 - [ ] - [x] Map out week progression and major concepts
 - [ ] - [x] Work out framework for each chapter
-
-
-## CNN
-
 
 
 
