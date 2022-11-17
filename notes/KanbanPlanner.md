@@ -30,6 +30,10 @@ kanban-plugin: basic
 - [ ] - [x] Work out framework for each chapter
 
 
+## CNN
+
+
+
 
 
 %% kanban:settings

@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "notes/KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "notes/KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10. Neural Networks.md"
+                "file": "notes/KanbanPlanner.md"
               }
             }
           },
@@ -204,15 +203,15 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "05f5b475f64083b4",
+  "active": "e9f7635281066238",
   "lastOpenFiles": [
+    "notes/10. Neural Networks.md",
     "notes/00. CNN Project.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/11. Convolutional Neural Networks.md",
     "notes/math/Rectifier.md",
     "notes/math/Convolution.md",
     "notes/15. Deep Neural Networks.md",
-    "notes/10. Neural Networks.md",
     "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
     "notes/09. Probabilistic Modeling.md"
