@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10. Neural Networks.md",
+                "file": "notes/00. CNN Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,20 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ce56040642367e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/KanbanPlanner.md",
+                "file": "notes/math/Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/KanbanPlanner.md",
+                "file": "notes/math/Convolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/KanbanPlanner.md"
+                "file": "notes/math/Convolution.md"
               }
             }
           },
@@ -200,19 +189,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "e9f7635281066238",
+  "active": "b44024dea4b3e120",
   "lastOpenFiles": [
-    "notes/10. Neural Networks.md",
-    "notes/00. CNN Project.md",
     "notes/07. Linear Models and Optimization.md",
+    "notes/00. CNN Project.md",
+    "notes/10. Neural Networks.md",
+    "notes/math/Convolution.md",
+    "notes/KanbanPlanner.md",
     "notes/11. Convolutional Neural Networks.md",
     "notes/math/Rectifier.md",
-    "notes/math/Convolution.md",
     "notes/15. Deep Neural Networks.md",
-    "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
     "notes/09. Probabilistic Modeling.md"
   ]

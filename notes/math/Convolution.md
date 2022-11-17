@@ -63,6 +63,5 @@ $$
 
 $$
 
-> [!info] Diract delta function
+> [!info] Dirac delta function
 > the **Dirac delta distribution** (**δ distribution**), also known as the **unit impulse**, is a [generalized function](https://www.wikiwand.com/en/Generalized_function "Generalized function") or [distribution](https://www.wikiwand.com/en/Distribution_(mathematics) "Distribution (mathematics)") over the [real numbers](https://www.wikiwand.com/en/Real_numbers "Real numbers"), whose value is zero everywhere except at zero, and whose [integral](https://www.wikiwand.com/en/Integral "Integral") over the entire real line is equal to one.
-
