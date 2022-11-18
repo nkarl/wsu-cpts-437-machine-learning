@@ -88,9 +88,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed238efbfb7c620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/15. Deep Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1141b14005d39fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/11. Convolutional Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6559a80102ffba21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/11. Convolutional Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -136,8 +172,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/11. Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/11. Convolutional Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md"
+                "file": "notes/11. Convolutional Neural Networks.md"
               }
             }
           },
@@ -216,17 +251,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "6786148c5f2149df",
+  "active": "6559a80102ffba21",
   "lastOpenFiles": [
-    "notes/19. Auto.md",
+    "notes/15. Deep Neural Networks.md",
+    "notes/20. Ensembles.md",
+    "notes/11. Convolutional Neural Networks.md",
+    "notes/18. Generative Adversarial Networks.md",
+    "notes/17. AutoEncoders & Variational AutoEncoders.md",
+    "notes/16. Recurrent Neural Networks.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/00. Table of Contents.md",
     "notes/math/Convolution.md",
-    "notes/00. CNN Project.md",
-    "notes/11. Convolutional Neural Networks.md",
-    "notes/12. Kernel Methods.md",
-    "notes/00. ML Overview.md",
-    "notes/10. Neural Networks.md",
-    "notes/KanbanPlanner.md"
+    "notes/00. CNN Project.md"
   ]
 }
