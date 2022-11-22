@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "0ebe9b9eac6ae6dc",
+            "id": "ce5cf153a3276d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371
+    "width": 338.5069236755371,
+    "collapsed": true
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -223,18 +224,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "0ebe9b9eac6ae6dc",
+  "active": "ce5cf153a3276d28",
   "lastOpenFiles": [
-    "Link later.md",
-    "notes/00. CNN Project.md",
-    "notes/00. ML Overview.md",
     "notes/11. Convolutional Neural Networks.md",
-    "notes/10. Neural Networks.md",
+    "notes/00. CNN Project.md",
     "notes/09. Probabilistic Modeling.md",
-    "notes/05. Practical Considerations.md",
     "notes/07. Linear Models and Optimization.md",
+    "notes/05. Practical Considerations.md",
+    "Link later.md",
+    "notes/00. ML Overview.md",
+    "notes/10. Neural Networks.md",
     "notes/15. Deep Neural Networks.md",
     "notes/KanbanPlanner.md"
   ]
