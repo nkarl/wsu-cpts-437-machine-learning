@@ -59,7 +59,6 @@ $$
 \cr
 &\mbox{where}\quad\delta(\tau):\mbox{the unit impuse/Dirac delta function/$\delta$ distribution}
 \end{flalign}
-</div>
 
 $$
 
