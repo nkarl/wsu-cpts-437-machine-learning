@@ -117,14 +117,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "notes/00. CNN Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/00. CNN Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/00. CNN Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/00. CNN Project.md"
               }
             }
           },
@@ -250,8 +250,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "ba426f3415f9adb5",
+  "active": "86875a09cb9343f5",
   "lastOpenFiles": [
+    "notes/07. Linear Models and Optimization.md",
     "notes/05. Practical Considerations.md",
     "notes/math/Convolution.md",
     "notes/math/Rectifier.md",
@@ -260,7 +261,6 @@
     "notes/10. Neural Networks.md",
     "materials/16.NeuralNetworks.pdf",
     "notes/00. ML Overview.md",
-    "notes/07. Linear Models and Optimization.md",
     "notes/09. Probabilistic Modeling.md"
   ]
 }
