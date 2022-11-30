@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/00. ML Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371
+    "width": 338.5069236755371,
+    "collapsed": true
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/00. ML Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md",
+                "file": "notes/00. ML Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/15. Deep Neural Networks.md"
+                "file": "notes/00. ML Overview.md"
               }
             }
           },
@@ -223,10 +224,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "active": "355bd497b3fa4a1b",
   "lastOpenFiles": [
+    "notes/15. Deep Neural Networks.md",
     "notes/16. Recurrent Neural Networks.md",
     "notes/17. AutoEncoders & Variational AutoEncoders.md",
     "notes/KanbanPlanner.md",
@@ -235,7 +238,6 @@
     "notes/00. ML Overview.md",
     "notes/05. Practical Considerations.md",
     "notes/10. Neural Networks.md",
-    "notes/00. Table of Contents.md",
-    "notes/11. Convolutional Neural Networks.md"
+    "notes/00. Table of Contents.md"
   ]
 }
