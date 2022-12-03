@@ -86,21 +86,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "355bd497b3fa4a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00. ML Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/KanbanPlanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00. ML Overview.md",
+                "file": "notes/KanbanPlanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00. ML Overview.md"
+                "file": "notes/KanbanPlanner.md"
               }
             }
           },
@@ -227,15 +214,15 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "355bd497b3fa4a1b",
+  "active": "e9f7635281066238",
   "lastOpenFiles": [
+    "notes/00. ML Overview.md",
     "notes/15. Deep Neural Networks.md",
     "notes/16. Recurrent Neural Networks.md",
     "notes/17. AutoEncoders & Variational AutoEncoders.md",
     "notes/KanbanPlanner.md",
     "notes/20. Ensembles.md",
     "notes/18. Generative Adversarial Networks.md",
-    "notes/00. ML Overview.md",
     "notes/05. Practical Considerations.md",
     "notes/10. Neural Networks.md",
     "notes/00. Table of Contents.md"
