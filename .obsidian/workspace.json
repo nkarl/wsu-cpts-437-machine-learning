@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/00.01 CNN Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/00.01 CNN Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00.00 CNN Project.md"
+                "file": "notes/00.01 CNN Project.md"
               }
             }
           },
@@ -184,10 +184,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "be3875d314d01315",
+  "active": "c1d1ed29eee349f0",
   "lastOpenFiles": [
-    "notes/00.01 CNN Project.md",
     "notes/00.00 CNN Project.md",
+    "notes/00.01 CNN Project.md",
     "notes/00. ML Overview.md",
     "notes/05. Practical Considerations.md",
     "notes/07. Linear Models and Optimization.md",
