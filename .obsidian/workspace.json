@@ -34,49 +34,19 @@
             }
           },
           {
-            "id": "6559a80102ffba21",
+            "id": "be3875d314d01315",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05. Practical Considerations.md",
+                "file": "notes/00. CNN Project.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ba426f3415f9adb5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6786148c5f2149df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/09. Probabilistic Modeling.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/09. Probabilistic Modeling.md",
+                "file": "notes/00. CNN Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/09. Probabilistic Modeling.md",
+                "file": "notes/00. CNN Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/09. Probabilistic Modeling.md"
+                "file": "notes/00. CNN Project.md"
               }
             }
           },
@@ -202,17 +172,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6786148c5f2149df",
+  "active": "be3875d314d01315",
   "lastOpenFiles": [
-    "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
+    "notes/05. Practical Considerations.md",
+    "notes/07. Linear Models and Optimization.md",
+    "notes/09. Probabilistic Modeling.md",
+    "notes/KanbanPlanner.md",
     "notes/15. Deep Neural Networks.md",
     "notes/16. Recurrent Neural Networks.md",
     "notes/17. AutoEncoders & Variational AutoEncoders.md",
     "notes/20. Ensembles.md",
-    "notes/18. Generative Adversarial Networks.md",
-    "notes/05. Practical Considerations.md",
-    "notes/10. Neural Networks.md",
-    "notes/00. Table of Contents.md"
+    "notes/18. Generative Adversarial Networks.md"
   ]
 }
