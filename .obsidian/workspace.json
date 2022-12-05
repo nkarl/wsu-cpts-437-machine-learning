@@ -74,20 +74,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b46de7e2657dd8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00. ML Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371,
-    "collapsed": true
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/KanbanPlanner.md",
+                "file": "notes/09. Probabilistic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/KanbanPlanner.md",
+                "file": "notes/09. Probabilistic Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/KanbanPlanner.md"
+                "file": "notes/09. Probabilistic Modeling.md"
               }
             }
           },
@@ -214,13 +202,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e9f7635281066238",
+  "active": "6786148c5f2149df",
   "lastOpenFiles": [
+    "notes/KanbanPlanner.md",
     "notes/00. ML Overview.md",
     "notes/15. Deep Neural Networks.md",
     "notes/16. Recurrent Neural Networks.md",
     "notes/17. AutoEncoders & Variational AutoEncoders.md",
-    "notes/KanbanPlanner.md",
     "notes/20. Ensembles.md",
     "notes/18. Generative Adversarial Networks.md",
     "notes/05. Practical Considerations.md",
