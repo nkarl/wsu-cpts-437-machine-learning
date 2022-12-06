@@ -44,18 +44,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1d1ed29eee349f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00.01 CNN Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
