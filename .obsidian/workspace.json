@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d97bb76f7cbf46ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/00. ML Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/00. ML Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/00. ML Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00.00 CNN Project.md"
+                "file": "notes/00. ML Overview.md"
               }
             }
           },
@@ -172,17 +184,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "be3875d314d01315",
+  "active": "d97bb76f7cbf46ff",
   "lastOpenFiles": [
-    "notes/00.01 CNN Project.md",
-    "notes/00.00 CNN Project.md",
-    "notes/00. ML Overview.md",
-    "notes/05. Practical Considerations.md",
     "notes/07. Linear Models and Optimization.md",
+    "notes/03. Geometric Learning and KNN.md",
+    "notes/01. Decision Trees.md",
+    "notes/05. Practical Considerations.md",
+    "notes/00. ML Overview.md",
+    "notes/00.00 CNN Project.md",
+    "notes/00.01 CNN Project.md",
     "notes/09. Probabilistic Modeling.md",
     "notes/KanbanPlanner.md",
-    "notes/15. Deep Neural Networks.md",
-    "notes/16. Recurrent Neural Networks.md",
-    "notes/17. AutoEncoders & Variational AutoEncoders.md"
+    "notes/15. Deep Neural Networks.md"
   ]
 }
