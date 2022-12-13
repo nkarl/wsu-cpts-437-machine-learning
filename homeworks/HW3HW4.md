@@ -13,7 +13,7 @@ kanban-plugin: basic
 
 ## HW4
 
-- [ ] Theory<br>- [ ] 1 apply logit. regression to 5-class?<br>- [ ] 3 regularization to apply to<br>	- [ ] decision tree<br>	- [ ] KNN<br>	- [ ] naive bayes<br>- [ ] 4 SVM properties
+- [ ] Theory<br>- [x] 1 apply logit. regression to 5-class?<br>- [ ] 3 regularization to apply to<br>	- [ ] decision tree<br>	- [ ] KNN<br>	- [ ] naive bayes<br>- [ ] 4 SVM properties
 - [ ] Manual Calculation<br>- [ ] 2 naive bayes steps
 - [ ] Program<br>- [ ] build Naive Bayes class<br>	- [ ] 1 Prep data<br>	- [ ] 2 class, performance for 3-fold cross validation by<br>		- [ ] accuracy<br>		- [ ] macro f1 score<br>	- [ ] 3 class imbalance
 
