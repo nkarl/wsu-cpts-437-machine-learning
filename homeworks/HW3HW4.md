@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## HW3
 
-- [ ] Manual Calculation<br>- [ ] 1<br>	- [ ] MSE<br>	- [ ] one round of G.D.<br>- [ ] 2 statistical significance<br>	- [ ] use paired t-test
+- [ ] Manual Calculation<br>- [x] 1<br>	- [x] MSE<br>	- [x] one round of G.D.<br>- [x] 2 statistical significance<br>	- [x] use paired t-test
 - [ ] Theory<br>- [x] 3<br>- [x] 4 Runtime of RankTest<br>	- [x] expressed as a function of the number of objects
-- [ ] Program<br>- [ ] 5 binary classifier<br>	- [x] build bootstrap<br>	- [x] evaluate performance<br>	- [ ] with result, generate 95% confidence interval
+- [ ] Program<br>- [x] 5 binary classifier<br>	- [x] build bootstrap<br>	- [x] evaluate performance<br>	- [x] with result, generate 95% confidence interval
 
 
 ## HW4
