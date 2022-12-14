@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gradient des",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "notes/07. Linear Models and Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/math/Convolution.md"
+                "file": "notes/07. Linear Models and Optimization.md"
               }
             }
           },
@@ -184,17 +185,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "471f6130306b5e10",
+  "active": "be3875d314d01315",
   "lastOpenFiles": [
+    "notes/00. Table of Contents.md",
+    "notes/00. ML Overview.md",
+    "notes/StudyPlanner.md",
     "notes/00.00 CNN Project.md",
     "notes/math/Convolution.md",
     "homeworks/HW3HW4.md",
     "ref.md",
-    "notes/StudyPlanner.md",
-    "notes/00. ML Overview.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/03. Geometric Learning and KNN.md",
-    "notes/01. Decision Trees.md",
-    "notes/05. Practical Considerations.md"
+    "notes/01. Decision Trees.md"
   ]
 }
