@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "471f6130306b5e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/math/Convolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5069236755371,
-    "collapsed": true
+    "width": 338.5069236755371
   },
   "right": {
     "id": "b4700f6caf6dd84c",
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/math/Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00.00 CNN Project.md",
+                "file": "notes/math/Convolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00.00 CNN Project.md"
+                "file": "notes/math/Convolution.md"
               }
             }
           },
@@ -173,8 +184,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "be3875d314d01315",
+  "active": "471f6130306b5e10",
   "lastOpenFiles": [
+    "notes/00.00 CNN Project.md",
+    "notes/math/Convolution.md",
     "homeworks/HW3HW4.md",
     "ref.md",
     "notes/StudyPlanner.md",
@@ -182,8 +195,6 @@
     "notes/07. Linear Models and Optimization.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/01. Decision Trees.md",
-    "notes/05. Practical Considerations.md",
-    "notes/00.00 CNN Project.md",
-    "notes/00.01 CNN Project.md"
+    "notes/05. Practical Considerations.md"
   ]
 }
