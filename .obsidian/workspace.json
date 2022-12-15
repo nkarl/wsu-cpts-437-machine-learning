@@ -8,57 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9f7635281066238",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/StudyPlanner.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c0a6c370d9fb81b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/00. ML Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "be3875d314d01315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/math/Convolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471f6130306b5e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "team-repo/src/statistics/adolescent_dep_stats.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "team-repo/src/statistics/adolescent_dep_stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/math/Convolution.md",
+                "file": "team-repo/src/statistics/adolescent_dep_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/math/Convolution.md"
+                "file": "team-repo/src/statistics/adolescent_dep_stats.md"
               }
             }
           },
@@ -186,15 +147,15 @@
   },
   "active": "be3875d314d01315",
   "lastOpenFiles": [
+    "README.md",
+    "notes/01. Decision Trees.md",
+    "ref.md",
+    "team-repo/src/statistics/adolescent_dep_stats.md",
+    "notes/math/Convolution.md",
+    "notes/StudyPlanner.md",
+    "notes/00. ML Overview.md",
     "notes/07. Linear Models and Optimization.md",
     "notes/00. Table of Contents.md",
-    "notes/00. ML Overview.md",
-    "notes/StudyPlanner.md",
-    "notes/00.00 CNN Project.md",
-    "notes/math/Convolution.md",
-    "homeworks/HW3HW4.md",
-    "ref.md",
-    "notes/03. Geometric Learning and KNN.md",
-    "notes/01. Decision Trees.md"
+    "notes/00.00 CNN Project.md"
   ]
 }
