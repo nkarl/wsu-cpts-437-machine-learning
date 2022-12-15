@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/math/Convolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/math/Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md",
+                "file": "notes/math/Convolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/07. Linear Models and Optimization.md"
+                "file": "notes/math/Convolution.md"
               }
             }
           },
@@ -187,6 +186,7 @@
   },
   "active": "be3875d314d01315",
   "lastOpenFiles": [
+    "notes/07. Linear Models and Optimization.md",
     "notes/00. Table of Contents.md",
     "notes/00. ML Overview.md",
     "notes/StudyPlanner.md",
@@ -194,7 +194,6 @@
     "notes/math/Convolution.md",
     "homeworks/HW3HW4.md",
     "ref.md",
-    "notes/07. Linear Models and Optimization.md",
     "notes/03. Geometric Learning and KNN.md",
     "notes/01. Decision Trees.md"
   ]
