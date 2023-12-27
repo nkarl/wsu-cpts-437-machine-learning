@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient des",
+                "query": "\" rate\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,12 +167,23 @@
   },
   "active": "be3875d314d01315",
   "lastOpenFiles": [
+    "team-repo/src/statistics/adolescent_dep_stats.md",
+    "team-repo/src/engine/process_scans.py",
+    "team-repo/src/engine/model.py",
+    "team-repo/src/engine/augment.py",
+    "team-repo/src/engine/__init__.py",
+    "team-repo/src/statistics",
+    "team-repo/src/main.py",
+    "team-repo/src/engine",
+    "team-repo/src",
+    "team-repo/data.unmeddep/smfq/Retrieve.Trial_gt_Baseline.AllWords.UnMedDepSubs.Corr_SMFQ.nii.gz",
+    "team-repo/data.unmeddep/smfq/Retrieve.Neg_gt_Pos.Hits.UnMedDepSubs.Corr_SMFQ.nii.gz",
+    "team-repo/README.md",
     "notes/00. Table of Contents.md",
     "notes/00. ML Overview.md",
     "README.md",
     "notes/01. Decision Trees.md",
     "ref.md",
-    "team-repo/src/statistics/adolescent_dep_stats.md",
     "notes/math/Convolution.md",
     "notes/StudyPlanner.md",
     "notes/07. Linear Models and Optimization.md",
